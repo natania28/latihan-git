@@ -13,3 +13,5 @@ Repository Latihan Git
 * `git checkout <commit-id>` : kembali ke posisi `<commit-id>`
 * `git branch -a` : melihat daftar nama branch
 * `git checkout <nama-branch>` : kembali ke posisi terbaru di `<nama-branch>`
+* `git push` : mengupload perubahan di local ke remote
+* `git pull` : mendownload perubahan di remote ke local
